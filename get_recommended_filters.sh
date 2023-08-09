@@ -9,6 +9,7 @@ urls=(
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  https://abpvn.com/filter/abpvn-qeLDaI.txt
 )
 
 # loop through the urls and download each file with curl
