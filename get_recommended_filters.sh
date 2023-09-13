@@ -7,10 +7,9 @@ touch input.csv
 urls=(
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
   https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
-  https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  https://abpvn.com/filter/abpvn-qeLDaI.txt
-  https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/doh/doh_privacy.txt
+  https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+  https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+  https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
 )
 
 # loop through the urls and download each file with curl
